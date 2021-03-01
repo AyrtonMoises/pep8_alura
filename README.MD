@@ -6,3 +6,4 @@
 <p>Design Pattern:Template Method</p>
 <p>Constantes</p>
 <p>Design Pattern:Factory</p>
+<p>Typing</p>
