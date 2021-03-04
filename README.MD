@@ -5,6 +5,6 @@
 <p>Classe abstrata</p>
 <p>Design Pattern:Template Method</p>
 <p>Constantes</p>
-<p>Design Pattern:Factory</p>
+<p>Design Pattern:Factory Method</p>
 <p>Typing</p>
 <p>Design Pattern:Injection Dependency</p>
